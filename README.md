@@ -24,7 +24,7 @@ You just need to run this script on your Raspberry with working GPIOs. You can i
 
 **You can also use this in command promt, before moved to file by ```cd``` command**
 ```
-python main.py
+python3 main.py
 ```
 
 ## Theorie
