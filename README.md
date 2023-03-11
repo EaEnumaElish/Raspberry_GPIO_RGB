@@ -22,9 +22,9 @@ Change the pin numbers before running
 You just need to run this script on your Raspberry with working GPIOs. You can immediately see the changes in the Tkinter graphical window
 
 
-**You can also use this in command promt**
+**You can also use this in command promt, before moved to file by ```cd``` command**
 ```
-python testrasp.py
+python main.py
 ```
 
 ## Theorie
